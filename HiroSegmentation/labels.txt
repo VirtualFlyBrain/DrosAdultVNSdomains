@@ -1,0 +1,62 @@
+	Materials {
+		Exterior {
+			Id 1,
+			Color 1 1 1
+		}
+		LTect {
+			Id 2,
+			Color 1 0.5 0.5
+		}
+		FN {
+			Id 3,
+			Color 0 0.7 1
+		}
+		WSN {
+			Id 4,
+			Color 0.52 1 0.4
+		}
+		mVAC {
+			Id 5,
+			Color 1 0.9 0
+		}
+		VAC1 {
+			Id 6,
+			Color 0.858333 0.291667 1
+		}
+		NN {
+			Id 7,
+			Color 1 0 0
+		}
+		t1leg {
+			Id 8,
+			Color 0 0 1
+		}
+		t2keg {
+			Id 9,
+			Color 0.368627 0.619608 0.627451
+		}
+		t3leg {
+			Id 10,
+			Color 0.909722 0.852815 0.353781
+		}
+		AS {
+			Id 11,
+			Color 0 0.692708 0.923611
+		}
+		HN {
+			Id 12,
+			Color 1 0.703704 0.111111
+		}
+		VAC2 {
+			Id 13,
+			Color 0 1 0
+		}
+		VAC3 {
+			Id 14,
+			Color 0.5 0 0.5
+		}
+		Tect {
+			Id 15,
+			Color 0.8125 0.729331 0
+		}
+	}
