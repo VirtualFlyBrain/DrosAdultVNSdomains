@@ -1,0 +1,13 @@
+! TYPEDSTREAM 1.1
+
+registration {
+	reference_study "../../VFBTools/DrosAdultTAGdomains/template/Neuropil_padded_LPS.nrrd"
+	floating_study "../../VFBTools/DrosAdultTAGdomains/template/Neuropil_LPS.nrrd"
+	affine_xform {
+		xlate -2.209692145e-06 -1.042489814e-06 -11.0390527 
+		rotate 8.005246246e-05 -0.0002180260994 -1.318836892e-06 
+		scale 0.9998537726 0.9999512575 0.9993176054 
+		shear -6.022606087e-18 -4.00773639e-18 2.606743895e-18 
+		center 117.8516234 235.9338762 61.87 
+	}
+}
