@@ -23,5 +23,4 @@ Index	Ind_ID	Class_ID	Name	Abbreviation	Note	Centre
 23	VFB_00100021	FBbt_00003625	Cortex	C	(Including rind / cell bodies)	
 29	VFB_00100022	FBbt_00004057	Ventral prothoracic nerve	VProN		
 30	VFB_00100023	FBbt_00125004	Tectulum	Tct	(sensory area 99)	
-40	VFB_00100024	FBbt_00004020	Giant fiber neuron	GF		
-255	VFB_00100035	FBbt_00004053	Cervical nerve	CvN		
+40	VFB_00100024	FBbt_00004020	Giant fiber neuron	GF			
