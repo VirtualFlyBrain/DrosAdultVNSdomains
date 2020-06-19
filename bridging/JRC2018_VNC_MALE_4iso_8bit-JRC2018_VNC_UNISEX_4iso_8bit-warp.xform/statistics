@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 528025.0600000001
+time_total 962793.9100000000
+walltime_level 30447.0000000000
+walltime_total 63994.0000000000
+thread_time_level 0.0000000000
+thread_time_total 0.0000000000
+number_of_threads 38
+number_of_cpus 38
+host "1969909d7533"
+system "Linux"
