@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/NAS/JRC_2018_ISO/JRC2018_VNC_FEMALE_4iso_8bit.nrrd"
+}
+source {
+	studyname "/NAS/JRC_2018_ISO/JRC2018_VNC_UNISEX_4iso_8bit.nrrd"
+}

@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/NAS/JRC_2018_ISO/JRC2018_VNC_UNISEX_4iso_8bit.nrrd"
+}
+source {
+	studyname "/NAS/VNC_UNISEX/C2-flylight_gen1_gal4-Alignments-GMR_10A01_AE_01-GMR_10A01_AE_01-20080315_GMR_10A01_AE_01_09-fA01v_20080318234904718-20x-VNC-2622923429531090978-REG_UNISEX_VNC.nrrd"
+}
