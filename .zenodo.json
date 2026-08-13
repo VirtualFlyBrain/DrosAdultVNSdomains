@@ -1,0 +1,38 @@
+{
+  "title": "Drosophila adult ventral nervous system template and painted domains",
+  "upload_type": "dataset",
+  "license": "cc-by-sa-4.0",
+  "creators": [
+    {
+      "name": "Court, Robert",
+      "affiliation": "University of Edinburgh"
+    },
+    {
+      "name": "Shepherd, David"
+    }
+  ],
+  "description": "<p>Painted neuropil and tract domains for the adult <i>Drosophila melanogaster</i> ventral nervous system, as served by Virtual Fly Brain.</p><p><b>Court2017/</b> holds the domain set from the preprint version of the nomenclature, painted on the Court2018 adult VNS template and served on VFB as COURT2018VNS (VFB_00100000). <b>Court2020/</b> holds the final published domain set, painted by David Shepherd for Court et al. 2020 on the Janelia JRC2018 VNC Female template and served against JRC2018UnisexVNC (VFB_00200000). <b>bridging/</b> holds CMTK warp fields registering between the Court2018 VNS template and the JRC2018 VNC Female, Male and Unisex spaces.</p><p><b>Third-party material:</b> the JRC2018 VNC templates under <code>JRC2018_VNC_FEMALE/</code> and <code>Court2020/template/</code> are the work of Janelia Research Campus and are redistributed under Janelia's own CC BY-NC-SA 4.0 terms, which this deposit does not and cannot remove. See LICENSE-NOTES.md in the archive.</p>",
+  "keywords": [
+    "Drosophila melanogaster",
+    "neuroanatomy",
+    "Virtual Fly Brain",
+    "ventral nerve cord",
+    "VNC",
+    "template brain",
+    "neuropil domains",
+    "image registration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1016/j.neuron.2020.08.005",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1101/122952",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ],
+  "access_right": "open"
+}
