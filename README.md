@@ -1,6 +1,8 @@
 Drosophila Adult Ventral Nervous System (VNS) domains
 ===================
 
+[![DOI](https://zenodo.org/badge/58957738.svg)](https://zenodo.org/badge/latestdoi/58957738)
+
 A repository for collaborative work towards a standard ref neuroanatomy for the adult ventral nervous system (VNS) also know as the thoracico-abdominal ganglion (TAG) or ventral nerve cord (VNC).
 
 
